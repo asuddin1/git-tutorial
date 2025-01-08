@@ -1,2 +1,3 @@
-"Annan Uddin"
+Annan Uddin
 Git Tutorial
+UChicago Guide
